@@ -1,0 +1,6 @@
+# day's input files
+*.txt
+
+# ghc artifacts/output
+*.hi
+*.o
